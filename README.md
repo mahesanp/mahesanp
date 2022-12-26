@@ -17,9 +17,9 @@ I am **Mahesan P**, student from **Bannari Amman Institute of Technology** pursu
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+![NodeJS](https://img.shields.io/badge/-NodeJS-%23F05032?style=flat-square&logo=node.js&logoColor=%23ffffff)<br>
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
-![NodeJS](https://img.shields.io/badge/-NodeJS-%23F05032?style=flat-square&logo=node.js&logoColor=%23ffffff)
 <a href="#"><img alt="Kali Linux" src="https://img.shields.io/badge/Kali%20Linux-1793D1.svg?logo=kali-linux&logoColor=white"></a>
 
 
