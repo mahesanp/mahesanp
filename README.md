@@ -23,8 +23,8 @@ I am **Mahesan P**, student from **Bannari Amman Institute of Technology** pursu
 
 
 ## 𝗦𝘁𝗮𝘁𝘀
-![mahesan's github stats](https://github-readme-stats.vercel.app/api?username=mahesanp&show_icons=true&theme=dracula&layout=compact)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahesanp&theme=dracula&layout=compact)<br>
+![mahesan's github stats](https://github-readme-stats.vercel.app/api?username=mahesanp&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahesanp&theme=dracula)<br>
 <br>
 Note: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
