@@ -1,7 +1,7 @@
 # 𝗛𝗲𝗹𝗹𝗼 𝗜'𝗺 𝗠𝗮𝗵𝗲𝘀𝗮𝗻
 
 [![](https://img.shields.io/badge/-@mahesan-%23181717?style=flat-square&logo=github)](https://github.com/mahesanp)
-[![Linkedin: Mahesan](https://img.shields.io/badge/-@mahesan-%23181717?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/mahesan-p-43929a1a2)
+[![Linkedin: Mahesan](https://img.shields.io/badge/-@mahesan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ghazi-khan/)](https://www.linkedin.com/in/mahesan-p-43929a1a2/)
 [![](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=mahesan.tech&url=https%3A%2F%2Fxlbd.me)](https://mahesan.tech)
 
 
