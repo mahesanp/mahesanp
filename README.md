@@ -23,7 +23,7 @@ I am **Mahesan P**, student from **Bannari Amman Institute of Technology** pursu
 
 
 ## 𝗦𝘁𝗮𝘁𝘀
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahesan&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahesanp&theme=dracula)
 ![mahesan's github stats](https://github-readme-stats.vercel.app/api?username=mahesanp&show_icons=true&theme=dracula)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=mahesan)]
