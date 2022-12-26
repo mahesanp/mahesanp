@@ -1,8 +1,8 @@
 # 𝗛𝗲𝗹𝗹𝗼 𝗜'𝗺 𝗠𝗮𝗵𝗲𝘀𝗮𝗻
 
-[![](https://img.shields.io/badge/-@xiaoluoboding-%23181717?style=flat-square&logo=github)](https://github.com/mahesanp)
-[![Linkedin: Mahesan](https://img.shields.io/badge/-@xiaoluoboding-%23181717?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/mahesan-p-43929a1a2)
-[![](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=xlbd.me&url=https%3A%2F%2Fxlbd.me)](https://mahesan.tech)
+[![](https://img.shields.io/badge/-@mahesan-%23181717?style=flat-square&logo=github)](https://github.com/mahesanp)
+[![Linkedin: Mahesan](https://img.shields.io/badge/-@mahesan-%23181717?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/mahesan-p-43929a1a2)
+[![](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=mahesan.tech&url=https%3A%2F%2Fxlbd.me)](https://mahesan.tech)
 
 
 I am **Mahesan P**, student from **Bannari Amman Institute of Technology** pursuing **Computer Science and Engineering**. I am an Experienced **Fullstack Developer and Problem Solver**.
@@ -23,7 +23,7 @@ I am **Mahesan P**, student from **Bannari Amman Institute of Technology** pursu
 
 
 ## 𝗦𝘁𝗮𝘁𝘀
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahesanp&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahesanp&theme=dracula)<br>
 ![mahesan's github stats](https://github-readme-stats.vercel.app/api?username=mahesanp&show_icons=true&theme=dracula)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=mahesan)]
