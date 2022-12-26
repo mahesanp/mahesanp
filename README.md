@@ -29,4 +29,4 @@ I am **Mahesan P**, student from **Bannari Amman Institute of Technology** pursu
 <br>
 𝗡𝗼𝘁𝗲: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mahesanp)]
+[![](https://github-profile-trophy.vercel.app/?username=mahesanp)]
